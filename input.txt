@@ -1,0 +1,5 @@
+hello world
+python is fun
+files are powerful
+errors happen
+handle them gracefully
